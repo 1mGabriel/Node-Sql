@@ -1,0 +1,13 @@
+Os bancos de daos relacionais são constituidos por algumas entidades
+Banco de dados: Um banco para guardar os dados do projeto;
+Tabelas: Onde categorizamos os dados e os inserimos;
+Colunas: Onde eseparamos os dados em uma Tabelas
+Dados: O que é inserido, modificado, atualizado e removido em uma Tabelas
+Relacionamento: Ligações entre as tabelas
+
+MYSQL
+O mysql é um SGBD (Ssiteam gerenciador de Banco de Dados)
+Que vai nos ajudar a trabalhar com bancos relacionais;
+Tambem é o mais utilizado aualmente em sistemas e aplicações
+Muitos projetos de Node.js utilizam Mysql;
+Precisamos instalar o software e deixar ele em execucção para que o node possa se concetar aos bancos que temos disponiveis

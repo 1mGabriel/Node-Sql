@@ -1,0 +1,8 @@
+
+{{#each book}}
+    <div>#{{this.id}} - <span>{{this.title}} -</span> - {{this.page}} páginas
+    </div>
+    <hr>
+    <a href="/books/edit/{{this.id}}">Editar</a>
+{{/each}}
+<a href="/">Voltar</a>
